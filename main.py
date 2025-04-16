@@ -1,8 +1,7 @@
 # Install necessary libraries
-!pip install transformers datasets nltk rouge-score readability-lxml
+# !pip install transformers datasets nltk rouge-score readability-lxml
 
-!pip install textstat
-
-!pip install sumy
+# !pip install textstat
+# !pip install sumy
 
 
