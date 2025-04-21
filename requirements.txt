@@ -1,0 +1,8 @@
+transformers
+datasets
+sumy
+rouge-score
+bert-score
+textstat
+nltk
+torch
